@@ -14,15 +14,6 @@ class Produk {
 	}
 }
 
-// $Produk1 = new Produk();
-// $Produk1->judul = "Naruto";
-// var_dump($Produk1);
-
-// $produk2 = new Produk();
-// $produk2->judul = "Uncharted";
-// $produk2->tambahProperty = "hahaha";
-// var_dump($produk2);
-
 $produk3 = new Produk();
 $produk3->judul = "Naruto";
 $produk3->penulis = "Masashi Kishimoto";
