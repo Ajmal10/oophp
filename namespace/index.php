@@ -10,6 +10,6 @@ require_once 'App/init.php';
 // $cetakProduk->tambahProduk( $produk2);
 // echo $cetakProduk->cetak();
 
-new User();
+new App\Service\User();
 
  ?>
